@@ -1,0 +1,4 @@
+Auswirkungen von a1 und a2:
+a1 gewichtet den Einfluss der Differenz von Blau und Grün insgesamt. Ist das a1 niedriger, muss die Differenz groß sein um einen ähnlichen Effekt auf das alpha zu haben. Die Folge: Der Alpha-Wert erreicht schneller sein Maximum/Minimum, also auch für eher mittlere Blau/Grün-Werte.
+
+a2 gewichtet das Grün. Durch ein kleines a2 wird also weniger von Blau abgezogen, das Blau hat einen höheren Einfluss auf alpha. Ein moderater oder höherer Wet für a2 sorgt dafür, dass Grün einen nennenswerten Einfluss auf alpha hat.
